@@ -1,0 +1,166 @@
+@media screen and (max-width: 1080px) {
+
+    .header__wrap {
+        gap: 30px;
+        margin-top: 20px;
+    }
+
+    .text {
+        gap: 15px;
+        margin: 0 auto;
+        flex-direction: column;
+    }
+
+    .container2 {
+        width: 1110px;
+        height: 100%;
+    }
+
+    .block1_wrap {
+        height: 100%;
+        padding: 0 40px 20px 40px;
+    }
+
+    .container3 {
+        max-width: 1110px;
+        text-align: justify;
+        height: 100%;
+    }
+
+    .bottom {
+        margin-top: 20px;
+    }
+
+    .banner {
+        margin: 20px 0;
+
+    }
+    .banner__logo {
+       height: 100%;
+       width: 100%;
+        object-fit: cover;
+    }
+
+    .container_h4 {
+        padding: 20px 40px;
+        max-width: 1110px;
+    }
+
+    .container2_1 {
+        max-width: 1110px;
+        height: 100%;
+    }
+
+    .container3_1 {
+        max-width: 1110px;
+    }
+
+    .container_h4_1 {
+        max-width: 1110px;
+        padding: 20px 40px;
+    }
+
+    .banner_call {
+        max-width: 1110px;
+
+    }
+
+}
+
+@media screen and (max-width: 904px) {
+
+    .menu_link a {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 20px;
+    }
+
+    
+}
+
+@media screen and (max-width: 768px) {
+
+    .nav_menu {
+        gap: 15px;
+    }
+
+    .menu_link a {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 15px;
+    }
+
+    h4 {
+
+        font-size: 18px;
+        line-height: 15px;
+    }
+
+    .block1_wrap {
+        height: 100%;
+    }
+
+    .container3 {
+        font-size: 14px;
+        line-height: 24px;
+        height: 100%;
+
+    }
+
+    .container3_1 {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .banner_call {
+        font-size: 14px;
+        line-height: 24px;
+    }
+
+    .banner_mail {
+        font-size: 14px;
+        line-height: 24px;
+
+    }
+
+    .text2 {
+        font-size: 12px;
+        line-height: 20px;
+        text-align: center;
+    }
+
+    #text3 {
+        font-size: 20px;
+        line-height: 24px;
+        justify-content: center;
+
+    }
+}
+
+@media screen and (max-width: 620px) {
+    .nav_menu {
+        justify-content: center;
+        flex-wrap: wrap;
+        align-items: center;
+        gap: 20px;
+
+    }
+
+    .display {
+        width: 30%;
+        height: 30%;
+    }
+
+    .bottom_block-logo  img {
+        width: 50%;
+        height: 50%;
+        object-fit: cover;
+    }
+
+    .bottom_block {
+        flex-direction: column;
+    }
+    .header__wrap{
+        gap: 20px;
+    }
+}
